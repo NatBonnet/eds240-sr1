@@ -1,7 +1,8 @@
 ---
 title: "Pre-course self reflection (SR #1)"
-author: "Your name"
+author: "Nathalie Bonnet"
 date: 2026-01-09
+output: PDF
 ---
 
 ::: {.callout-note}
@@ -12,56 +13,56 @@ date: 2026-01-09
 
   - [ ] **1. Which learning goals from the syllabus are you most excited about?** 
 
-   Your answer here
+I am most excited to become more familiar with accessibility in creating ggplots. I think it can be hard to balance aesthetics with accessibility, and it is very common to see essentially the same visual elements produced over and over in scientific communication products, but I think this often can be improved and made more attractive to consumers
 
   - [ ] **2. What do you hope to get out of this class?**
 
-   Your answer here
+I hope to improve my ability to write visualization code from scratch. Particularly because there are so many options in ggplot, I am excited to expand on what I can do with it and work on retaining more basic functionality. 
 
   - [ ] **3. How do you plan on accomplishing your learning goals for this course? *Note:* be specific here! Instead of writing, “I will complete homework assignments” or “I will study,” you can make these more specific strategies: “I will create a schedule to map out assignments“ (elaborate on this), “I will use the homework assignments as opportunities to practice X,” I will communicate with classmates to ask for help after trying X,” “I will participate in online learning communities, such as TidyTuesday...” etc.**
 
-   Your answer here 
+I have begun implementing a more personalized approach to scheduling, my Google calendar is specifically extremely overwhelming between my shared Bren and work calendars, so I have a separate physical agenda to help me keep track of assignments. My biggest challenge last quarter was not getting burnt out from balancing my responsibilities, though I feel like most assignments went off without a hitch, this quarter is even more important for time management. I plan to sit down on Sundays and specifically block out time for work and assignments, but also for rest because I would like to treat myself more like a human being this quarter. 
 
 ## (Optional) Help me get to know you better!
 
   - [ ] **1. Where are you coming from (e.g. “I recently finished my undergraduate degree”, “I've been working in industry X for Y years”)?** 
 
-    Your answer here 
+I finished my undergraduate degree at UCSB in aquatic biology! I'm from Denver, but spent some time at the end of high school in Monterey.
 
   - [ ] **2. If you have a particular career goal in mind, how does this course apply to your future career, if at all?**
 
-    Your answer here 
+I would love to work on climate data analysis, which is a subject that needs to be represented in an accessible way particularly as it informs policy and social interactions. 
 
   - [ ] **3. What do you wish your instructors knew about you, but don't?**
 
-    Your answer here 
+I unfortunately have never been mysterious in my entire life, so really nothing!
 
   - [ ] **4. What kinds of assignments, skills, or behaviors have you felt most comfortable with / enjoy from past classes? Why do you enjoy them?**
 
-    Your answer here 
+I have really enjoyed coding assignments that focus on storytelling and visual presentation because they have a purpose beyond just showing the work. I like the more professional element of presenting ideas and communicating something larger.
 
   - [ ] **5. How confident do you feel in your data visualization skills? Why?**
 
-  Your answer here 
+I feel like I have a solid foundation in data viz. I think I have a good understanding of basic visualization choices like what plot type to select, elemental choices, etc. I do feel though that there's an entire other level of data visualization skills I have yet to tap into that I'm hoping to in this course.
 
   - [ ] **6. How confident do you feel in your coding skills (primarily R, but feel free to elaborate on any of the languages you’ve used)? Why?** 
 
-    Your answer here 
-
+I feel pretty solid in R, both because of my background before MEDS as well as our course work last quarter. I also work in R for my job, which involves a very specific workflow but it has given me a good in depth understanding of some development, working with many popular file types, and troubleshooting in internally developed R packages. I definitely do not feel as confident in Python, I think I got a lot from last quarter's Python class, but I specifically do not feel extremely comfortable with visualization in Python. 
   - [ ] **7. What have you struggled with in the past in other graduate-level courses? Why?**
 
-    Your answer here 
 
   - [ ] **8. Of the courses you’re taking this quarter, which do you expect to be the most challenging? Most demanding?**
 
-    Your answer here 
+Other than the Capstone, I expect that EDS 241 (policy evaluation) will be particularly demanding because there is a bulk of reading material in addition to statistical and coding concepts.
 
   - [ ] **9. What responsibilities do you have outside of school, and how do you want to balance them?**
 
-    Your answer here 
+My biggest responsibility outside of school is my part time job at NCEAS. I have a fair amount of flexibility to set my own remote schedule which is great, the biggest thing is having to factor in that I have to work during normal-ish business hours, so I have to complete coursework in the evenings. This really compresses my time to do regular life activities, and I know it takes myself longer to work on assignments because I am already tired, so working to block out time to feel like I am feeding my personal life has been important for creating balance.
 
   - [ ] **10. What activity(ies) (outside of school / work) brings you the most joy? How do you plan to incorporate that activity into your schedule this quarter (if at all)? If you are unable to do so, is there something else you can plan to do that will bring you similar joy?** 
 
-    Your answer here 
+I love to surf and ski! I also really want to get back into oil painting this year. I go surfing on Sundays if the waves are good, and have scheduled painting dates with a good friend on the weekends as well. Luckily these things are pretty accessible and kept me sane last quarter. I also quenched my need for speed over winter break by going skiing in Tahoe.
 
   - [ ] **11. What is a piece of media you enjoyed recently (e.g. music, book, movie, meme)?** 
+  
+I'm preparing myself for a summer trip to hike the Tour de Mont Blanc by working on my French, so I began reading a French detective novel over break. Also Holidays are the time to rewatch Little Women (2019), Monty Python, and the Harry Potter series. 
